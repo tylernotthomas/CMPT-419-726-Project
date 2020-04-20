@@ -6,3 +6,7 @@ This code implements and tests a binary classification CNN model for the image d
 
 ## aminCodeConverted.ipynb
 A version of Amin's multi-class classification training code designed to work with TensorFlow 2.0's in-built version of Keras.
+
+## Multi-class Classification Dataset
+Please dowload the directory from SFU Vault:
+https://vault.sfu.ca/index.php/s/5Tei9o8cIXEEl6u
